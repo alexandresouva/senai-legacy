@@ -92,6 +92,7 @@ ___
 - [ ] Construção da plataforma interna Alumni, com login, verificação de acesso, páginas exclusivas e todo o back end da web aplicação. As tecnologias utilizadas nesta etapa ainda serão discutidas.
 - [ ] Uso de banco de dados para cadastro de alunos e professores na plataforma, bem como eventuais consultas.
 - [ ] Deploy e divulgação da aplicação.
+<br><br>
 
 
 >“As pessoas que são loucas o suficiente para achar que podem mudar o mundo são aquelas realmente o fazem” <div align="right"> Steve Jobs </div>
