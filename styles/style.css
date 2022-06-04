@@ -3,9 +3,9 @@
 :root {
   --corMenu: #0C3A81;
   --corCard: #EF6B6B;
-
   --fontePadrao: 'Mulish', sans-serif;
-
+  --image-fundo-1: url("../images/fundo.jpg");
+  --image-fundo-2: url("../images/background.jpg");
   --maxWidth: 2560px;
   --minWidth: 320px;
 }
@@ -21,7 +21,6 @@
 body {
   max-width: 2560px;
   min-width: 320px;
-
   margin: auto;
 }
 
@@ -84,7 +83,7 @@ label.logo {
   display: none;
 }
 
-/* CONFIGURAÇÃO DO NOSSO MENU SCROLL */
+/* ========================== CONFIGURAÇÃO DO NOSSO MENU SCROLL ================================= */
 
 .menu-scroll {
   transition: 0.3s;
@@ -98,8 +97,8 @@ label.logo {
   width: 100%;
 
   background-size: cover;
-  background-image: url(Images/fundo.jpg);
 
+  background-image: var(--image-fundo-1);
   color: #fff;
 
 }
@@ -118,9 +117,6 @@ label.logo {
 }
 
 .texto {
-  /* background-color: yellow;
-  border-radius: 20px;
-  border: 2px solid; */
   display: block;
   padding: 40px;
 }
@@ -134,12 +130,10 @@ label.logo {
   font-style: italic;
   margin-top: 90px;
 }
-
-
 .container-2 {
   height: 90vh;
   padding-top: 140px;
-  background-image: url(Images/background.jpg);
+  background-image: var(--image-fundo-2);
   background-size: cover;
 }
 
@@ -750,7 +744,7 @@ label.logo {
     max-height: 60vh;
 
   }
-  
+
 
   /* .container-2{
     padding: 0px 20px 0 20px;
