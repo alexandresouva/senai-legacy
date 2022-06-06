@@ -33,6 +33,7 @@ O Senai Legacy é um espaço destinado aos alunos, ex-alunos e professores do Se
 - Box model para análise dos elementos. 
 - CSS Grid e Flexbox para posicionamento de itens e criação do layout.
 - Responsividade com media queries.
+- Criação de variáveis no CSS para armazenar os elementos do Figma;
 - Complementar?
 </details>
 
@@ -41,6 +42,7 @@ O Senai Legacy é um espaço destinado aos alunos, ex-alunos e professores do Se
     <br>
 
 - Accordion para criação do FAQ.
+- Botões com links;
 - Complementar?
 </details>
 
@@ -48,7 +50,7 @@ O Senai Legacy é um espaço destinado aos alunos, ex-alunos e professores do Se
     <summary><b>Javascript</b></summary>
     <br>
 
-- Tópico 1.
+- Criação de função para ativar o Menu Scroll.
 - Tópico 2.
 - Complementar?
 </details>
@@ -70,7 +72,7 @@ O Senai Legacy é um espaço destinado aos alunos, ex-alunos e professores do Se
 
 <br>
 <div align="center">
-    <a href="https://github.com/alexandresouva"><img src="images/alexandre.png"></a>
+    <a href="https://github.com/flaviogsromeiro"><img src="images/flavio.png"></a>
     <a href="https://github.com/alexandresouva"><img src="images/alexandre.png"></a>
     <a href="https://github.com/alexandresouva"><img src="images/alexandre.png"></a>
 </div>
