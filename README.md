@@ -70,7 +70,7 @@ O Senai Legacy é um espaço destinado aos alunos, ex-alunos e professores do Se
 
 <br>
 <div align="center">
-    <a href="https://github.com/alexandresouva"><img src="images/alexandre.png"></a>
+    <a href="https://github.com/alexandresouva"><img src="images/Perfil 2022.png"></a>
     <a href="https://github.com/alexandresouva"><img src="images/alexandre.png"></a>
     <a href="https://github.com/alexandresouva"><img src="images/alexandre.png"></a>
 </div>
